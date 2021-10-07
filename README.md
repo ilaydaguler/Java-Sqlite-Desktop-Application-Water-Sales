@@ -1,4 +1,4 @@
-# Java Sqlite Desktop Application Water Sales
+# Java Sqlite Desktop Application Water Sales Automation
 
 Application Description
 
