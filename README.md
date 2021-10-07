@@ -1,1 +1,1 @@
-# Java-Sql-Desktop-Application---Water-Sales
+# Java-Sqlite-Desktop-Application---Water-Sales
