@@ -2,6 +2,14 @@
 
 Application Description
 
+## Kullanılan Diller ve Yetenekler
+
+| Languages / Abilities | :arrow_right: | % |
+| ------------- |:-------------:|:-------------:|
+| Java | :arrow_right: | 95 |
+| JFrame | :arrow_right: | 85 |
+| SQLite | :arrow_right: | 75 |
+
 ## Application images
 
 <p>
