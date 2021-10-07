@@ -2,7 +2,7 @@
 
 Application Description
 
-## Kullanılan Diller ve Yetenekler
+## Used Languages & Abilities
 
 | Languages / Abilities | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
