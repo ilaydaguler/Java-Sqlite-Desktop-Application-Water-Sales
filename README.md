@@ -1,6 +1,6 @@
 # Java Sqlite Desktop Application Water Sales Automation
 
-Water sales automation is an application that allows users to easily track and manage their sales and orders.
+Water sales automation is an application that allows users to easily track and manage their sales and orders. Adding, deleting, listing and updating information can be done in the application. In addition, customers' orders can be tracked and their delivery status can be updated. Unregistered customers can be easily added to the system and their orders can be taken.
 
 ## Used Languages & Abilities
 
