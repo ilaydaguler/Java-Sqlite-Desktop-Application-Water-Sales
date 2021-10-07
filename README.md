@@ -1,6 +1,6 @@
 # Java Sqlite Desktop Application Water Sales Automation
 
-Water sales automation enables users to easily keep track of sales and orders and manage them.
+Water sales automation is an application that allows users to easily track and manage their sales and orders.
 
 ## Used Languages & Abilities
 
@@ -43,13 +43,11 @@ Water sales automation enables users to easily keep track of sales and orders an
 <a href="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/10.jpg" target="_blank">
 <img src="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/10.jpg" width="200" style="max-width:100%;"></a>
  
-  <a href="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/11.jpg" target="_blank">
+<a href="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/11.jpg" target="_blank">
 <img src="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/11.jpg" width="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/12.jpg" target="_blank">
 <img src="https://github.com/ilaydaguler/Java-Sqlite-Desktop-Application-Water-Sales/blob/main/images/12.jpg" width="200" style="max-width:100%;"></a>
-  
-  
   
 </p>
 
