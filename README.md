@@ -10,7 +10,7 @@ Water sales automation is an application that allows users to easily track and m
 | JFrame | :arrow_right: | 85 |
 | SQLite | :arrow_right: | 75 |
 
-## Application images
+## Application Images
 
 <p>
   
