@@ -1,6 +1,6 @@
 # Java Sqlite Desktop Application Water Sales Automation
 
-Application Description
+Water sales automation enables users to easily keep track of sales and orders and manage them.
 
 ## Used Languages & Abilities
 
